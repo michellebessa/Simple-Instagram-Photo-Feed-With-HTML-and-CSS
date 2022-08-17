@@ -1,0 +1,45 @@
+body{
+    background:lightgray;
+    font-family:helvetica;
+    margin:0;
+}
+header {
+    text-align: center;
+    margin:0;
+    background-color:white;
+    padding:1px;
+}
+section {
+    background:rgb(237, 237,234);
+    padding-top:60px;
+}
+.header h2{
+    font-size:20px;
+    margin:0;
+}
+.header{
+    padding:15px;
+}
+.box{
+    background: white; 
+    width:600px;
+    margin:auto;
+    border: 1px solid rgba(141, 148, 142, 0.274);
+    border-radius: 5px;
+}
+div.box{
+    margin-top:4%;
+}
+div{
+    box-sizing:border-box;
+}
+img{
+    width: 100%;
+}
+.box .header .date{
+    float:right;
+    margin:0;
+}
+.description{
+    padding:15px;
+}
